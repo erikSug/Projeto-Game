@@ -10,3 +10,5 @@
 6) subir o projeto para repositorio no github
 7) criar a branch dev - git checkout -b dev
 8) criando as pastas components, routes e styles
+9) Verificar se tem a extensão ES7 React
+10) Criando os componentes do projeto com o comando rafce
